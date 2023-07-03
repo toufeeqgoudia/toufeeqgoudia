@@ -18,18 +18,13 @@
   <img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript" />
 </p>
 
-<h4 align='center'>Technologies</h4>
-
-<p align='center'>
-  <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" />
-  <img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" />
-</p>
-
-<h4 align='center'>Tools</h4>
+<h4 align='center'>Tools and Technologies</h4>
 
 <p align='center'>
   <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" />
   <img src="https://skillicons.dev/icons?i=figma" width="36" height="36" alt="Figma" />
 </p>
 
