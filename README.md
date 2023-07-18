@@ -21,11 +21,13 @@
 <h4 align='center'>Tools and Technologies</h4>
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VSCode" />
   <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" />
   <img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" />
   <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" />
   <img src="https://skillicons.dev/icons?i=figma" width="36" height="36" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VSCode" />
 </p>
 
 <br />
