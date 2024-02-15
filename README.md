@@ -16,7 +16,9 @@
   <img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=cs" width="36" height="36" alt="C#" />
   <img src="https://skillicons.dev/icons?i=py" width="36" height="36" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=postgresql" width="36" height="36" alt="PostgreSQL" />
 </p>
 
 <h4 align='center'>Tools and Technologies</h4>
@@ -24,7 +26,6 @@
 <p align='center'>
   <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" />
   <img src="https://skillicons.dev/icons?i=django" width="36" height="36" alt="Django" />
-  <img src="https://skillicons.dev/icons?i=postgresql" width="36" height="36" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="Tailwind" />
   <img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" />
   <img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" />
