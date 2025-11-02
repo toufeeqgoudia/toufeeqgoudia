@@ -4,7 +4,7 @@
 
 <p align='center'> 👨🏽‍💻 I'm a Junior Web Developer </p>
 <p align='center'> 🌍 I'm based in Cape Town, South Africa </p>
-<p align='center'> 👀 View my portfolio <a href='https://toufeeqgoudia.netlify.app/'>https://toufeeqgoudia.netlify.app</a> </p>
+<!-- <p align='center'> 👀 View my portfolio <a href='https://toufeeqgoudia.netlify.app/'>https://toufeeqgoudia.netlify.app</a> </p> -->
 <p align='center'> 📧 You can contact me at <a href='mailto:toufeeqgoudia@gmail.com'>toufeeqgoudia@gmail.com</a> </p>
 
 <br />
